@@ -1,0 +1,14 @@
+.btn-flat {
+  margin-top: 20px;
+  background: blue;
+  border: 1px solid blue;
+  padding: 8px 24px;
+  border-radius: 50px;
+  color: white;
+  opacity: 0.6;
+  transition: opacity 0.3s ease;
+}
+
+.btn-flat:hover {
+  opacity: 1;
+}
